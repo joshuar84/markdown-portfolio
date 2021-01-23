@@ -14,8 +14,8 @@ layout: default
 
 <br>
 
-[Lists](./_includes/04-lists.md/)
+[Lists](./_includes/04-lists.md)
 
 <br>
 
-[Emphasis](./_includes/05-emphasis.md/05-emphasis.md)
+[Emphasis](./_includes/05-emphasis.md)
