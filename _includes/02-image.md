@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bamboo stalk icon](https://github.com/joshuar84/pictures/blob/main/NO_Name07_cropped.jpg)
