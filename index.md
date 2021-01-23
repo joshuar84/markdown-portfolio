@@ -2,20 +2,20 @@
 layout: default
 ---
 
-[Name](https:github.com/joshuar84/markdown-portfolio/01-name.md)
+[Name](./_includes/01-name.md/01-name.md)
 
 <br>
 
-[Image](https:github.com/joshuar84/markdown-portfolio/02-image.md)
+[Image](./_includes/02-image.md/02-image.md)
 
 <br>
 
-[Links](https:github.com/joshuar84/markdown-portfolio/03-links.md)
+[Links](./_includes/03-links.md/03-links.md)
 
 <br>
 
-[Lists](https:github.com/joshuar84/markdown-portfolio/04-lists.md)
+[Lists](./_includes/04-lists.md/04-lists.md)
 
 <br>
 
-[Emphasis](https:github.com/joshuar84/markdown-portfolio/05-emphasis.md)
+[Emphasis](./_includes/05-emphasis.md/05-emphasis.md)
